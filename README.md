@@ -55,3 +55,32 @@ Figure 4 shows the background music selection feature. Users can choose a prefer
 - Event-driven programming
 
 ## Project Structure
+The project is organized into UI modules, application logic, multimedia resources, and a mini-game module.
+
+```
+Java-DB-Food-Delivery-Platform/
+├── src/
+│   ├── Home/                # Main application UI (restaurant browsing system)
+│   ├── Search/              # Category-based search functionality
+│   ├── List/                # Order history management
+│   ├── Account/             # User account management UI (background music settings)
+│   ├── Main/                # Core logic, database operations, and MP3 playback
+│   ├── Ball/                # Startup animation module: multiple balls moving in different directions when the application launches
+│   └── BreakoutClone/       # Independent mini-game (Breakout game implementation)
+│
+├── bin/                     # Compiled Java class files
+│
+├── image/                   # UI images (favorites / UI assets)
+├── image1/                  # Restaurant images (menu display)
+├── image2/                  # Food category images
+├── image3/                  # Order history related images
+├── image_pay/               # Payment-related icons
+│
+├── music/                   # Background music files (MP3)
+│
+├── lib/                     # External libraries (JDBC, audio)
+│
+├── sql/                     # Database scripts
+│
+└── README.md
+```
