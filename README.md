@@ -1,7 +1,9 @@
 # Food Delivery Platform
 ## Introduction
-This repository contains a Java-based food delivery platform developed using Java Swing and modeled after the Uber Eats application. It follows an object-oriented programming approach to build an interactive graphical user interface and handle user interactions.<br><br>
-Due to time constraints, the system is not fully completed; however, it demonstrates core concepts such as GUI development, object-oriented design, database integration, and the implementation of a basic food ordering workflow.<br><br>
+This repository contains a Java-based food delivery platform developed using Java Swing and modeled after the Uber Eats application. It follows an object-oriented programming approach to build an interactive graphical user interface and handle user interactions.
+
+Due to time constraints, the system is not fully completed; however, it demonstrates core concepts such as GUI development, object-oriented design, database integration, and the implementation of a basic food ordering workflow.
+
 Source Code: https://github.com/wilson30139/Java-DB-Food-Delivery-Platform/tree/main/src
 
 ## Feature
